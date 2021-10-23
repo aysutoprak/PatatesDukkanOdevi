@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+.font_type {
+  font-family: Roboto, sans-serif;
+}
+
+nav > a {
+  margin: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(99, 45, 26);
+}
+
+h2 {
+  color: orangered;
+}
+
+.title {
+  font-size: 18pt;
+  color: rgb(255, 136, 0);
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.product-list {
+  text-align: center;
+  margin: 1px;
+}
+
+h3 {
+  color: rgb(136, 91, 7);
+}
+
+.about-class {
+  margin-top: 50px;
+}
